@@ -13,6 +13,7 @@ Quantity | Base Price | Expedite Price | Expedite Subtotal | Expedite Lead Time 
 25 | $162.08 | $306.11 | $7652.75 | 8 days | $236.51 | $5912.75 | 9 days | $182.36 | $4559.0 | 14 days | 285.3 minutes | $1260.0 | 3.0 | $150.0 | $1553.25 | $733.25 | $156.13 | $84.25 | $28.08 | $0.0 | $59.78 | $46.35 | $20.28 | $156.0
 
 ![Snapshot of the part](snapshots/control-bracket.png)
+![Snapshot of the part](snapshots/control-bracket-quotes.png)
 
 # Complexity
 
