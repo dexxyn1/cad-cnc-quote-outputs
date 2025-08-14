@@ -13,6 +13,7 @@ Quantity | Base Price | Expedite Price | Expedite Subtotal | Expedite Lead Time 
 25 | $35.05 | $64.4 | $1610.0 | 7 days | $50.54 | $1263.5 | 8 days | $39.44 | $986.0 | 11 days | 38.5 minutes | $225.25 | 1.0 | $0.0 | $425.25 | $182.25 | $132.33 | $16.42 | $5.47 | $0.0 | $12.93 | $10.02 | $4.39 | $15.25
 
 ![Snapshot of the part](snapshots/suspension-mount.png)
+![Snapshot of the part](snapshots/suspension-mount-quotes.png)
 
 # Complexity
 
