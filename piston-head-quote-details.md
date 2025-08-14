@@ -13,6 +13,7 @@ Quantity | Base Price | Expedite Price | Expedite Subtotal | Expedite Lead Time 
 25 | $185.71 | $341.08 | $8527.0 | 10 days | $267.78 | $6694.5 | 11 days | $208.94 | $5223.5 | 16 days | 336.78 minutes | $1343.0 | 3.0 | $150.0 | $1545.25 | $694.75 | $143.3 | $86.88 | $28.96 | $0.0 | $68.49 | $53.11 | $23.23 | $643.25
 
 ![Snapshot of the part](snapshots/piston-head.png)
+![Snapshot of the part](snapshots/piston-head-quotes.png)
 
 # Complexity
 
